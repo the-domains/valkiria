@@ -1,0 +1,14 @@
+layout_spectrum: 0.013238179963082075
+typography_spectrum: 0.6687721742782742
+color:
+  brandStrength: 0.7862392517272383
+  lightness: 0.8092860274482518
+  saturation: 0.5418337676674128
+  rhythmicContrast: 0.315514785470441
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ValKiria
